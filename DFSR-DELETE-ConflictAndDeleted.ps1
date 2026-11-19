@@ -63,4 +63,4 @@ Start-Service DFSR
 
 Write-Host "Bereinigung abgeschlossen. Dateien mit Zugriff verweigert wurden übersprungen."
 
-#Vibecoded with love by Tim Geywitz + ChatGPT lol
+#Vibecoded with love by Tim G. + ChatGPT lol
